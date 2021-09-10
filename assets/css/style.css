@@ -29,8 +29,7 @@ h1 {
   display: none;
 }
 #email,
-#firstName,
-#lastName {
+#comment {
   padding: 10px;
   margin: 10px 0px;
   margin-bottom: 10px;
