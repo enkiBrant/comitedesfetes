@@ -1,0 +1,50 @@
+body {
+  margin: 0;
+  font-family : sans-serif;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+  /* background-color: cornflowerblue; */
+}
+button,
+input,
+optgroup,
+select,
+textarea {
+  font-family: inherit; /* 1 */
+  font-size: 100%; /* 1 */
+  line-height: 1.15; /* 1 */
+  margin: 0; /* 2 */
+}
+#content {
+  width: 500px;
+  margin: auto;
+  text-align: center;
+  /* background-color: brown; */
+}
+h1 {
+    font-size:larger;
+}
+#email {
+  padding: 10px;
+  margin: 10px 0px;
+  margin-bottom: 10px;
+  width: 50%;
+  border: none;
+  border-radius: 5px;
+  background-color: lightgoldenrodyellow;
+  text-align: center;
+}
+#submit {
+  padding: 10px;
+  width: 50%;
+  border: none;
+  border-radius: 5px;
+  background-color: royalblue;
+  color: white;
+  cursor: pointer;
+}
+#alert p {
+  color: crimson;
+  font-weight: bold;
+}
