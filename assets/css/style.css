@@ -25,6 +25,9 @@ textarea {
 h1 {
     font-size:larger;
 }
+#elformo_honeypot {
+  display: none;
+}
 #email {
   padding: 10px;
   margin: 10px 0px;
