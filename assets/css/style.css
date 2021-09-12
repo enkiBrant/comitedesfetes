@@ -4,7 +4,7 @@ body {
   display: flex;
   flex-wrap: wrap;
   align-content: center;
-  /* background-color: cornflowerblue; */
+  background-color: #feed48;
 }
 button,
 input,
@@ -22,8 +22,11 @@ textarea {
   text-align: center;
   /* background-color: brown; */
 }
+#logo {
+  width: 300px;
+}
 h1 {
-    font-size:larger;
+    font-size:xx-large
 }
 #elformo_honeypot {
   display: none;
